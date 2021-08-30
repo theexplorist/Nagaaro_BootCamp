@@ -6,6 +6,8 @@ public class Happy_Number_Leetcode {
 	static int count=0;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		int [] arr = {1,2,3,4};
+		System.out.println(arr);
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		if(is_Happy_number(n)) {

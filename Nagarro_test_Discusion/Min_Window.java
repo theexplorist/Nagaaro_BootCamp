@@ -4,7 +4,7 @@ public class Min_Window {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String s = "ADOBECODEBANC";
+		String s = "ADOBECODEBANCBA";
 		String t = "ABC";
           System.out.println(min_subString_window(s, t));
 	}

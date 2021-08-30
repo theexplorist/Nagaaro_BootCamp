@@ -1,5 +1,7 @@
 package Nagarro_Doubt_Class;
 
+import Nagaaro_Qps_3.Happy_Number_Leetcode;
+
 public class Bubble_Sort {
 
 	public static void main(String[] args) {
@@ -15,7 +17,7 @@ public class Bubble_Sort {
 				}
 			}
 			
-		}
+		}	Happy_Number_Leetcode.is_Happy_number(12);
 		for (int i = 0; i < arr.length; i++) {
 			System.out.print(arr[i]+" ");
 		}
