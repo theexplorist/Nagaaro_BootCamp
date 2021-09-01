@@ -34,7 +34,7 @@ public class DiagonalSorting {
 		// TODO Auto-generated method stub
 
 		int[][] mat = {{3,3,1,1},{2,2,1,2},{1,1,1,2}};
-		sortSol(mat, 0, 0);
+		//sortSol(mat, 0, 0);
 		
 		for(int cr = 0; cr < mat.length; cr++) {
 			sortSol(mat, cr, 0);
